@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <BBLK_SpontaneousCompustion_Settings>Spontaneous Compustion</BBLK_SpontaneousCompustion_Settings>
+  <BBLK_SpontaneousCompustion_Info>At least one setting needs to be on for this mod to work.</BBLK_SpontaneousCompustion_Info>
+  
+  <BBLK_SpontaneousCompustionLabelLetterFire>Fire</BBLK_SpontaneousCompustionLabelLetterFire>
+  <BBLK_SpontaneousCompustionLetterToolTipFire>.</BBLK_SpontaneousCompustionLetterToolTipFire>
+
+  <BBLK_SpontaneousCompustionLabelLetterExlode>Explosion</BBLK_SpontaneousCompustionLabelLetterExlode>
+  <BBLK_SpontaneousCompustionLetterToolTipExlode>.</BBLK_SpontaneousCompustionLetterToolTipExlode>
+
+</LanguageData>

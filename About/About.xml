@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Spontaneous Compustion</name>
+  <author>bblkepling</author>
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+  <packageId>bblkepling.spontaneouscompustion</packageId>
+  <description>Makes things spontaneously compust.</description>
+</ModMetaData>
